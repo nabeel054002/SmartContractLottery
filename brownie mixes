@@ -1,0 +1,4 @@
+so basically we can bake a mix, that will already have all the mocks and necessary contracts
+for example, we can see this by running brownie bake chainlink-mix
+
+//it is highly recommended to use the mixes...

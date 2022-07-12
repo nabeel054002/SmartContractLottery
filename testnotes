@@ -1,0 +1,11 @@
+integration tests vs unit tests
+
+== unit tests = a way of testing small ieces of code in an isolated instance
+
+== integration tests = a way of testing across multile complex systems
+
+-- unit tests ran on develoment
+
+-- integration tests ran on develoment
+
+--- so we create 2 different folders for test and integration test, within the tests folders

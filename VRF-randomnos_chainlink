@@ -1,0 +1,10 @@
+-VERIFIABLE RANDOM FUNCTION
+
+so ig we have to put in link so as to access random numbers, it is based off of a subscription model
+
+Randomness, on the other hand, cannot be reference data. If the result of randomness is stored on-chain, any actor could retrieve the value and predict the outcome. Instead, randomness must be requested from an oracle, which generates a number and a cryptographic proof. 
+
+Then, the oracle returns that result to the contract that requested it. This sequence is known as the Request and Receive cycle.
+
+VRF requests receive funding from subscription accounts. The Subscription Manager lets you create an account and pre-pay for VRF requests, so that funding of all your application requests are managed in a single location.
+
